@@ -14,7 +14,8 @@ The twitch module is based off of [Dustforce Discord Bot](https://github.com/Joe
 * Role management - users can get or remove roles via reactions
 * Persistent configuration via state file
 * Auto Moderation to ban common phishing attempts and ping spam with audit log
-* In this configuration, the bot can only serve a single Discord Guild.
+* Glitch documentation through a sticky channel with context
+* In this configuration, the bot can serve a single Discord Guild
 
 ## Configuration
 The repository contains an example file:
